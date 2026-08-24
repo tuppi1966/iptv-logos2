@@ -1,0 +1,74 @@
+[
+  {
+    "source": "Animal_Planet_2018.svg",
+    "output": "Animal_Planet_2018.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 13657
+  },
+  {
+    "source": "English_Club_TV.svg",
+    "output": "English_Club_TV.png",
+    "dark_ui_adjusted": false,
+    "changed_pixels": 0
+  },
+  {
+    "source": "Eurosport_1_2022.webp",
+    "output": "Eurosport_1_2022.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 14065
+  },
+  {
+    "source": "Eurosport_2_2022.svg",
+    "output": "Eurosport_2_2022.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 13941
+  },
+  {
+    "source": "History_2021.webp",
+    "output": "History_2021.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 16708
+  },
+  {
+    "source": "History_2_29.webp",
+    "output": "History_2_29.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 20781
+  },
+  {
+    "source": "ID-2020.svg",
+    "output": "ID-2020.png",
+    "dark_ui_adjusted": false,
+    "changed_pixels": 0
+  },
+  {
+    "source": "MTV_2021_Retro.svg",
+    "output": "MTV_2021_Retro.png",
+    "dark_ui_adjusted": false,
+    "changed_pixels": 0
+  },
+  {
+    "source": "National_Geographic_2008.svg",
+    "output": "National_Geographic_2008.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 18805
+  },
+  {
+    "source": "National_Geographic_Wild_2018.svg",
+    "output": "National_Geographic_Wild_2018.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 37725
+  },
+  {
+    "source": "TV4_Hits_Logo_2023.svg",
+    "output": "TV4_Hits_Logo_2023.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 9603
+  },
+  {
+    "source": "TV4_Stars_2023.svg",
+    "output": "TV4_Stars_2023.png",
+    "dark_ui_adjusted": true,
+    "changed_pixels": 12228
+  }
+]
